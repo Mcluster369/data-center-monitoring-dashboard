@@ -1,0 +1,10 @@
+Metric,Value
+Total Servers,100.0
+Healthy Servers,33.0
+Warning Servers,26.0
+Critical Servers,41.0
+Average CPU Usage,56.68
+Average Memory Usage,56.24
+Average Temperature,30.64
+Average Power Usage,511.76
+Average Network Traffic,571.97
